@@ -1,4 +1,4 @@
-- 👋 Hi, I’m coco romeo
+- 👋 Hi, King Ernest Romeo
 - 👀 I’m interested....
 - 🌱 I’m currently learning C#
 - 📫 How to reach me : cocoromeo20@gmail.com
